@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font: 100%/1.5em Arial,Helvetica, sans-serif;
+	color :#000;
+}
+
+.container {
+	background: #e2e2e2;
+}
+
+section{
+
+}
+
+aside {
+	background: #d1d1d1;
+}
+
+footer	 {
+	clear: both;
+}
